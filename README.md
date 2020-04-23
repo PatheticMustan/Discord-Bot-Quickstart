@@ -2,4 +2,4 @@
 
 Setup Discord bots really fast!
 
-Comes with gitignore, requires, and Discord.js installed.
+Comes with a ping bot, with the env files
